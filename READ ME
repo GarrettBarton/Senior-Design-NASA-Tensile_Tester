@@ -1,0 +1,14 @@
+This is my senior design (capstone design) project at LSU for Fall 2018-Spring 2019. I will be including the softwares, resources, and manybe even reports.
+
+Not all the work is mine. This project is a group project and authors will be noted with their controbutions. 
+
+I and the lead on "software development," using the term somewhat loosely. I am not a professional (as you might have guessed from my other repositories). Pleasse read the report the I WILL put up in order to understand my project (there are actually two) before moving on.
+
+Projects:
+  1. NASA (Marshall center)- Needs a handheld device that saves to a microSD.
+  2. Dr. Guo (LSU)- Wants a tabletop version that is operated remotely via USB cable (just the next room over).
+
+The main components of the projects code are:
+  1. The on-board Arduino software for operating the device (both projects).
+  2. The Universal Windows Platform (UWP) application for controlling the device with a computer (second project).
+  3. MAYBE another UWP for the first project to pull data off of the microSD card more easily.
