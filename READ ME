@@ -12,4 +12,4 @@ The main components of the projects code are:
   1. The on-board Arduino software for operating the device (both projects).
       a. Controlling the actuator and hook assembly
     	b. Logging data from a load cell and an encoder on an SD card
-	    c. Displaying the maximum force that the load cell reads during a test
+	   c. Displaying the maximum force that the load cell reads during a test
