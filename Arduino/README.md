@@ -2,7 +2,7 @@
 
 ## Overview:
 
-#  **Version 0:** Getting examples of different sketches dealing with hardware used in the project.
+#  **Version 0:** #Getting examples of different sketches dealing with hardware used in the project.
   
 #  **Version 1.1:** (Being written)
   
