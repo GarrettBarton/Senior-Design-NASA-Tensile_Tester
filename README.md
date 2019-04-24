@@ -13,4 +13,5 @@ university/college.
 - [X] Begin testing itterations
 - [ ] Present device to panel (instructorr/industry)
 - [ ] Complete final report/documentation
+- [ ] Handoff device to sponsor/representative
 - [ ] Graduate!
