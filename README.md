@@ -11,7 +11,7 @@ university/college.
 - [X] Complete fall design semester
 - [X] Begin manufacturing process
 - [X] Begin testing itterations
-- [X] Present device to panel (instructorr/industry)
+- [X] Present device to panel (instructors/industry members)
 - [ ] Complete final report/documentation
 - [ ] Handoff device to sponsor/representative
 - [ ] Graduate!
