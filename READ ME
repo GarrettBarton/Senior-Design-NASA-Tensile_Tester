@@ -1,12 +1,15 @@
-This is my senior design (capstone design) project at LSU for Fall 2018-Spring 2019. I will be including the software(s), resources, and maybe even reports.
+This is my senior design (capstone design) project at LSU for Fall 2018-Spring 2019. I will be including the software(s), resources, and
+maybe even reports.
 
 Not all the work is mine and authors/creators of content will be cited.
 
-I am the lead on "software development," using the term somewhat loosely. I am not a professional (as you might have guessed from my other repositories). Please read the report that I will put up in order to understand my project before moving on. 
+I am the lead on "software development," using the term somewhat loosely. I am not a professional (as you might have guessed from my other
+repositories). Please read the report that I will put up in order to understand my project before moving on. 
 
 Projects:
   1. NASA (Marshall center)- Needs a handheld device that saves to a microSD.
-  2. Dr. Guo (LSU)- Wants a tabletop version that is operated remotely via USB cable (just the next room over). [UPDATE: Scraped. Only project one will be actually worked on]
+  2. Dr. Guo (LSU)- Wants a tabletop version that is operated remotely via USB cable (just the next room over). [UPDATE: Scraped. Only 
+  project one will be actually worked on]
 
 The main components of the projects code are:
   1. The on-board Arduino software for operating the device (both projects).
