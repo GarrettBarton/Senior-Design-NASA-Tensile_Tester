@@ -12,6 +12,6 @@ university/college.
 - [X] Begin manufacturing process
 - [X] Begin testing itterations
 - [X] Present device to panel (instructors/industry members)
-- [ ] Complete final report/documentation
-- [ ] Handoff device to sponsor/representative
+- [X] Complete final report/documentation
+- [X] Handoff device to sponsor/representative
 - [ ] Graduate!
