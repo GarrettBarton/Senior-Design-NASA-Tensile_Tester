@@ -14,4 +14,4 @@ university/college.
 - [X] Present device to panel (instructors/industry members)
 - [X] Complete final report/documentation
 - [X] Handoff device to sponsor/representative
-- [ ] Graduate!
+- [X] Graduate!
